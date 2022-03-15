@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tran Tin\\source\\repos\\Ecommerce-multiplat-app\\Ecommerce-multiplat-app.Service\\Ecommerce-multiplat-app.Service.csproj",
+      "projectUniqueName": "C:\\Users\\Tran Tin\\Desktop\\ecommerce-multiplat-app\\Ecommerce-multiplat-app\\Ecommerce-multiplat-app.Service\\Ecommerce-multiplat-app.Service.csproj",
       "projectName": "Ecommerce-multiplat-app.Service",
-      "projectPath": "C:\\Users\\Tran Tin\\source\\repos\\Ecommerce-multiplat-app\\Ecommerce-multiplat-app.Service\\Ecommerce-multiplat-app.Service.csproj",
+      "projectPath": "C:\\Users\\Tran Tin\\Desktop\\ecommerce-multiplat-app\\Ecommerce-multiplat-app\\Ecommerce-multiplat-app.Service\\Ecommerce-multiplat-app.Service.csproj",
       "packagesPath": "C:\\Users\\Tran Tin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tran Tin\\source\\repos\\Ecommerce-multiplat-app\\Ecommerce-multiplat-app.Service\\obj\\",
+      "outputPath": "C:\\Users\\Tran Tin\\Desktop\\ecommerce-multiplat-app\\Ecommerce-multiplat-app\\Ecommerce-multiplat-app.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ir9ve9/F3UzWOgLqhOCmWqk3L01fwreCVsM709uQZXr4ozRd5/UPiC5WfxfUXK27GMft74KZXuiTjDXm3Ielmg==",
+  "dgSpecHash": "RDJEZgtc8dQezFg+SyzsLA92HsGhalNEGfJyWPiY50br3/QhUlPB61bdcBWrswNxEFgJstoLs3PSmM5fMeYcVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Tran Tin\\source\\repos\\Ecommerce-multiplat-app\\Ecommerce-multiplat-app\\Ecommerce-multiplat-app.csproj",
+  "projectFilePath": "C:\\Users\\Tran Tin\\Desktop\\ecommerce-multiplat-app\\Ecommerce-multiplat-app\\Ecommerce-multiplat-app\\Ecommerce-multiplat-app.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tran Tin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Tran Tin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
